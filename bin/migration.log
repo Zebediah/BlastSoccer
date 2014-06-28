@@ -1,0 +1,4 @@
+[2014-03-10 16:29:34.383|27988] INFO: backup_sign started : /opt/psa/admin/sbin/backup_sign generate
+[2014-03-10 16:29:34.409|27988] INFO: backup_sign finished. Exit code: 0
+[2014-03-12 13:34:30.251|10590] INFO: backup_sign started : /opt/psa/admin/sbin/backup_sign generate
+[2014-03-12 13:34:30.273|10590] INFO: backup_sign finished. Exit code: 0
